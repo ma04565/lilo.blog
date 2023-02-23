@@ -1,10 +1,10 @@
 +++
-title = "Example Post"
+title = "KHOOL"
 date = "2023-01-01"
 draft = false
 pinned = false
 tags = ["Lilo", "Example"]
-image = "/img/default-image.jpg"
+image = "aaaaaa.png"
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
@@ -115,7 +115,7 @@ Wird ein Titel angegeben, so kann die Box ausgeklappt werden.
 
 Dies eignet sich auch für längere Inhalte.
 
-![](/img/default-image.jpg)
+![](beautiful-art.png)
 
 Auch Bilder können in eine Box gepackt werden.
 {{</box>}}
