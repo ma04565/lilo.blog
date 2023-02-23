@@ -1,7 +1,7 @@
 +++
 title = "KHOOL"
 date = "2023-01-01"
-draft = false
+draft = true
 pinned = false
 tags = ["Lilo", "Example"]
 image = "aaaaaa.png"
