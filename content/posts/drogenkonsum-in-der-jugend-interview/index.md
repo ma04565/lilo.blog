@@ -27,19 +27,21 @@ Wie ist dein Umfeld? Kennst du viele Leute die Drogen konsumieren?
 
 Aus welchen gründen hast du angefangen?
 
-> Es hat nicht wirklich einen richtigen grund. Es ist einfach so- halt leute um mich herum haben es gemacht und irgendwann haben wir uns mit kollegen so denkt- so es kann ja nicht so schlimm sein wenn alle um uns herum das auch machen. Probieren wir es auch mal und ja
+> Es hat nicht wirklich einen richtigen Grund. Es ist einfach so- halt leute um mich herum haben es gemacht und irgendwann haben wir uns mit kollegen so denkt- so es kann ja nicht so schlimm sein wenn alle um uns herum das auch machen. Probieren wir es auch mal und ja
 
 
 
 Hast du versucht aufzuhören? Was? Wann?
 
-
+> ich Hab schon öfters versucht aber
 
 Was hat es für Auswirkungen auf dich und/oder dein Umfeld?
 
 Ist der Zugang zu illegalen Drogen einfach? Was ist deine Meinung dazu?
 
 Was konnte Leuten helfen die jemanden haben oder selber haben der praktiziert?
+
+
 
 {{<box>}}
 
