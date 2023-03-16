@@ -3,6 +3,8 @@ title = "Drogenkonsum in der Jugend Interview"
 date = "2023-03-16"
 draft = false
 pinned = false
+tags = ["Drogenkonsum"]
+image = "shayenne-1-2-.jpg"
 description = "Ich habe jemanden der mir persönlichem Drogenkonsum interviewt. \nWie kommt es so weit? Was sind Auslöser und Schwierigkeiten?"
 +++
 Wann bist du das erste mal in kontakt mit Drogen bekommen?
