@@ -25,7 +25,7 @@ Aus welchen gründen hast du angefangen?
 
 Hast du versucht aufzuhören? Was? Wann?
 
-> ich Hab schon öfters versucht aber
+> Ich Hab schon öfters versucht aber
 
 Was hat es für Auswirkungen auf dich und/oder dein Umfeld?
 
@@ -33,7 +33,7 @@ Was hat es für Auswirkungen auf dich und/oder dein Umfeld?
 
 Ist der Zugang zu illegalen Drogen einfach? Was ist deine Meinung dazu?
 
->
+> E
 
 Was konnte Leuten helfen die jemanden haben oder selber haben der praktiziert?
 
@@ -41,8 +41,6 @@ Was konnte Leuten helfen die jemanden haben oder selber haben der praktiziert?
 
 {{<box>}}
 
-Sayenne Tuma ist am 21.02.22 geboren. Sie hatte eine schwierige Kindheit hinter sich lebt nun
-
-momentan in Zürich durch weitere familiäre Konflikte. Sie ist Oft in kontakt mit illegalen Suchtmittel gekommen die ihr leben beeinflussen.
+Sayenne Tuma ist am 21.02.22 geboren. Sie hatte eine schwierige Kindheit hinter sich lebt nun momentan in Zürich durch weitere familiäre Konflikte. Sie ist oft in kontakt mit illegalen Suchtmittel gekommen die ihr leben beeinflussen. Sie schliesst bald die lehre als keuffrau bei der migros ab. 
 
 {{<box>}}
