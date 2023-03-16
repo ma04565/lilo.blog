@@ -11,25 +11,17 @@ Wann bist du das erste mal in kontakt mit Drogen bekommen?
 
 > Also um ehrlich zu sein ich bin aufgewachsen mit Leute um mich, wo halt Drogen nehmen. Seit Geburt an eigentlich.
 
-
-
 Was für Drogen hast du schon genommen? Planst du mehr zu nehmen? Welche
 
-> Also eigentlich nicht so viel. Ich hab einfach ecstasy hab ich mal probiert, ich hab gras geraucht und ich hab hasch genommen- also auch geraucht. Sonst eigentlich nicht so.
-
-
+> Also eigentlich nicht so viel. Ich hab einfach Ecstasy hab ich mal probiert, ich hab gras geraucht und ich hab Hasch genommen- also auch geraucht. Sonst eigentlich nicht so.
 
 Wie ist dein Umfeld? Kennst du viele Leute die Drogen konsumieren?
 
 > Ich kenne (sehr) viel Leute die Drogen nehmen also du wärst erstaunt wie viele Leute um einem Drogen nehmen obwohl du sie kennst.
 
-
-
 Aus welchen gründen hast du angefangen?
 
-> Es hat nicht wirklich einen richtigen Grund. Es ist einfach so- halt leute um mich herum haben es gemacht und irgendwann haben wir uns mit kollegen so denkt- so es kann ja nicht so schlimm sein wenn alle um uns herum das auch machen. Probieren wir es auch mal und ja
-
-
+> Es hat nicht wirklich einen richtigen Grund. Es ist einfach so- halt leute um mich herum haben es gemacht und irgendwann haben wir uns mit Kollegen so denkt- so es kann ja nicht so schlimm sein wenn alle um uns herum das auch machen. Probieren wir es auch mal und ja
 
 Hast du versucht aufzuhören? Was? Wann?
 
@@ -37,11 +29,15 @@ Hast du versucht aufzuhören? Was? Wann?
 
 Was hat es für Auswirkungen auf dich und/oder dein Umfeld?
 
+>
+
 Ist der Zugang zu illegalen Drogen einfach? Was ist deine Meinung dazu?
+
+>
 
 Was konnte Leuten helfen die jemanden haben oder selber haben der praktiziert?
 
-
+>
 
 {{<box>}}
 
