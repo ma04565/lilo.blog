@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Suchtmittel", "Drogenkonsum", "Interview"]
 image = "shayenne-1-2-.jpg"
-description = "Ich habe jemanden, der mit persönlich unter Drogenkonsum leidet, interviewt. \nWie kommt es so weit? Was sind Auslöser und Schwierigkeiten? Hier ist ein Einblick in illegalen Suchtmitteln und deren Effekte."
+description = "Ich habe jemanden, der persönlich unter Drogenkonsum leidet, interviewt. \nWie kommt es so weit? Was sind Auslöser und Schwierigkeiten? Hier ist ein Einblick in illegalen Suchtmitteln und deren Effekte."
 +++
 ![Interview Shayenne Tuma im Stadtpark Biel 02.03.2023](shayenne-1-2-.jpg)
 
