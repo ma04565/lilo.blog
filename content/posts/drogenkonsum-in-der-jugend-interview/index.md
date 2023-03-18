@@ -3,7 +3,7 @@ title = "Drogenkonsum in der Jugend Interview"
 date = "2023-03-16"
 draft = false
 pinned = false
-tags = ["Suchtmittel"]
+tags = ["Suchtmittel", "Drogenkonsum", "Interview"]
 image = "shayenne-1-2-.jpg"
 description = "Ich habe jemanden, der mit persönlich unter Drogenkonsum leidet, interviewt. \nWie kommt es so weit? Was sind Auslöser und Schwierigkeiten? Hier ist ein Einblick in illegalen Suchtmitteln und deren Effekte."
 +++
