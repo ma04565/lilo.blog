@@ -45,6 +45,6 @@ description = "Ich habe jemanden, der mit persönlich unter Drogenkonsum leidet,
 
 {{<box>}}
 
-Sayenne Tuma ist in Frinvillier geboren und aufgewachsen. Sie hatte eine schwierige Kindheit hinter sich und lebt nun momentan in Zürich. Sie ist in ihrem Leben oft in Kontakt mit illegalen Suchtmittel gekommen, die sie und ihr Umfeld negativ beeinflussen. Trotz Schwierigkeiten schliesst sie bald ihre Lehre im Detailhandel ab.
+Sayenne Tuma ist in Frinvillier geboren und aufgewachsen. Sie hatte eine schwierige Kindheit hinter sich und lebt nun momentan in Zürich. Trotz Schwierigkeiten schliesst sie bald ihre Lehre im Detailhandel ab. Sie ist in ihrem Leben oft in Kontakt mit illegalen Suchtmittel gekommen, die sie und ihr Umfeld negativ beeinflussen. 
 
 {{<box>}}
