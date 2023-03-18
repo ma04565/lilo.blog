@@ -9,11 +9,7 @@ description = "Ich habe jemanden, der mit persönlich unter Drogenkonsum leidet,
 +++
 ![Interview Shayenne Tuma im Stadtpark Biel 02.03.2023](shayenne-1-2-.jpg)
 
-{{<box>}}
 
-Sayenne Tuma ist in Frinvillier geboren und aufgewachsen. Sie hatte eine schwierige Kindheit hinter sich und lebt nun momentan in Zürich. Trotz Schwierigkeiten schliesst sie bald ihre Lehre im Detailhandel ab. Sie ist in ihrem Leben oft in Kontakt mit illegalen Suchtmittel gekommen, die sie und ihr Umfeld negativ beeinflussen. 
-
-{{</box>}}
 
 ##### Wann bist du das erste Mal in Kontakt mit Drogen bekommen?
 
@@ -61,4 +57,8 @@ Sayenne Tuma ist in Frinvillier geboren und aufgewachsen. Sie hatte eine schwier
 
 ##### Wenige Zeit nach dem Interview raucht ein Mann, nicht weit von uns entfernt, Marihuana. Währenddessen sind nicht weit von uns entfernt mehrere Familien mit Kindern, die spielen.
 
-Sayenne Tuma ist in Frinvillier geboren und aufgewachsen. Sie hatte eine schwierige Kindheit hinter sich und lebt nun momentan in Zürich. Trotz Schwierigkeiten schliesst sie bald ihre Lehre im Detailhandel ab. Sie ist in ihrem Leben oft in Kontakt mit illegalen Suchtmittel gekommen, die sie und ihr Umfeld negativ beeinflussen.
+{{<box>}}
+
+Sayenne Tuma ist in Frinvillier geboren und aufgewachsen. Sie hatte eine schwierige Kindheit hinter sich und lebt nun momentan in Zürich. Trotz Schwierigkeiten schliesst sie bald ihre Lehre im Detailhandel ab. Sie ist in ihrem Leben oft in Kontakt mit illegalen Suchtmittel gekommen, die sie und ihr Umfeld negativ beeinflussen. 
+
+{{</box>}}
