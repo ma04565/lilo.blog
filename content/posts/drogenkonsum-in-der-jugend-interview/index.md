@@ -13,31 +13,27 @@ Wann bist du das erste mal in kontakt mit Drogen bekommen?
 
 Was für Drogen hast du schon genommen? Planst du mehr zu nehmen? Welche
 
-> Also eigentlich nicht so viel. Ich hab einfach Ecstasy hab ich mal probiert, ich hab gras geraucht und ich hab Hasch genommen- also auch geraucht. Sonst eigentlich nicht so.
+> Also eigentlich nicht so viel. Ich hab einfach Ecstasy mal probiert, ich hab gras geraucht und ich hab auch Hasch geraucht. Sonst eigentlich nichts.
 
 Wie ist dein Umfeld? Kennst du viele Leute die Drogen konsumieren?
 
-> Ich kenne (sehr) viel Leute die Drogen nehmen also du wärst erstaunt wie viele Leute um einem Drogen nehmen obwohl du sie kennst.
+> Ich kenne sehr viel Leute die Drogen nehmen also du wärst erstaunt wie viele Leute um dich Drogen nehmen obwohl du sie kennst.
 
 Aus welchen gründen hast du angefangen?
 
-> Es hat nicht wirklich einen richtigen Grund. Es ist einfach so- halt leute um mich herum haben es gemacht und irgendwann haben wir uns mit Kollegen so denkt- so es kann ja nicht so schlimm sein wenn alle um uns herum das auch machen. Probieren wir es auch mal und ja
+> Es hat nicht wirklich einen richtigen Grund. Es ist einfach so das leute um mich herum es gemacht haben und irgendwann haben wir uns mit Kollegen gedacht das es ja nicht so schlimm sein kann wenn alle um uns herum das auch machen. Probieren wir es auch mal.
 
-Hast du versucht aufzuhören? Was? Wann?
+Hast du schon versucht aufzuhören?
 
-> Ich Hab schon öfters versucht aber
+> Ich Hab schon öfters versucht aber momentan bin ich schon eine weile nüchtern. es ist anstrengend und man braucht selbstdisziplin also wenn du aufhören willst und du trotzdem mit leuten abhängst die es weiterhin machen ist es heikel aber wenn du mit den Leuten bist wie immer und sie auch aufhören dann kann man das eigentlich relativ gut durchziehen. weil man kann sich so gegenseitig supporten.
 
 Was hat es für Auswirkungen auf dich und/oder dein Umfeld?
-
->
 
 Ist der Zugang zu illegalen Drogen einfach? Was ist deine Meinung dazu?
 
 > E
 
 Was konnte Leuten helfen die jemanden haben oder selber haben der praktiziert?
-
->
 
 {{<box>}}
 
