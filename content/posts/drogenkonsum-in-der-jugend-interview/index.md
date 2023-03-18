@@ -55,7 +55,7 @@ description = "Ich habe jemanden, der mit persönlich unter Drogenkonsum leidet,
 >
 > Am besten aufhören oder gar nicht erst anfangen.
 
-##### Wenige Zeit nach dem Interview raucht ein Mann, nicht weit von uns entfernt, Marihuana. Währenddessen sind nicht weit von uns entfernt mehrere Familien mit Kindern, die spielen.
+##### Wenige Zeit nach dem Interview raucht ein Mann, nicht weit von uns entfernt, Marihuana. Währenddessen sind nicht weit von uns entfernt mehrere Familien mit Kindern, die auf einem Spielplatz spielen.
 
 {{<box>}}
 
