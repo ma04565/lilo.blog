@@ -35,11 +35,7 @@ description = "Ich habe jemanden, der persönlich unter Drogenkonsum leidet, int
 
 ##### Was hat es für Auswirkungen auf dich und/oder dein Umfeld?
 
-> Ich meine es hat einen Grund, dass Drogen illegal sind. 
->
-> Es beeinflusst dein Leben auf eine nicht sehr angenehme Art. 
->
-> Zum Beispiel mache ich eine Lehre und ich habe angefangen zu schwänzen, ich hab mich immer wieder krankgemeldet, weil ich keine Motivation gehabt habe oder immer noch high vom Vorabend gewesen bin und gewusst habe das ich nicht aufstehen kann. Auch das man mich sowieso so nicht brauchen konnte solche dinge halt. 
+> Ich meine es hat einen Grund, dass Drogen illegal sind. Es beeinflusst dein Leben auf eine nicht sehr angenehme Art. Zum Beispiel mache ich eine Lehre und ich habe angefangen zu schwänzen, ich hab mich immer wieder krankgemeldet, weil ich keine Motivation gehabt habe oder immer noch high vom Vorabend gewesen bin und gewusst habe das ich nicht aufstehen kann. Auch das man mich sowieso so nicht brauchen konnte solche dinge halt. 
 >
 > Wenn möglich nicht solche Sachen anfassen, bitte.
 
