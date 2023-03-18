@@ -13,19 +13,13 @@ description = "Ich habe jemanden, der mit persönlich unter Drogenkonsum leidet,
 
 > Also um ehrlich zu sein bin ich mit Leuten um mich aufgewachsen, die Drogen nehmen. Eigentlich von Geburt an.
 
-
-
 ##### Was für Drogen hast du schon genommen? Planst du mehr zu nehmen? Welche?
 
 > Also eigentlich nicht so viel. Ich habe einfach Ecstasy mal probiert, Gras und auch Hasch geraucht. Sonst eigentlich nichts.
 
-
-
 ##### Wie ist dein Umfeld? Kennst du viele Leute, die Drogen konsumieren?
 
 > Ich kenne sehr viele Leute die Drogen nehmen. Du wärst erstaunt, wie viele Leute um dich Drogen nehmen, obwohl du denkst das du sie kennst.
-
-
 
 ##### Aus welchen Gründen hast du angefangen?
 
@@ -43,11 +37,13 @@ description = "Ich habe jemanden, der mit persönlich unter Drogenkonsum leidet,
 
 ##### Ist der Zugang zu illegalen Drogen einfach? Was ist deine Meinung dazu?
 
-> Du wärst erstaunt, wie einfach es ist. Man kann gefühlt immer und überall ein Gramm Gras oder irgend so etwas finden. Es ist extrem einfach und es hat so viel Leute, die verkaufen. Allein in dieser Stadt hier, ich könnte dir so eine grosse Auswahl angeben, du wärst erstaunt.
+> Du wärst erstaunt, wie einfach es ist. Man kann gefühlt immer und überall ein Gramm Gras oder irgend etwas in der Richtung finden. Es ist extrem einfach und es hat so viele Leute, die verkaufen. Allein in dieser Stadt hier, ich könnte dir so eine grosse Auswahl von Leuten angeben, du wärst erstaunt.
 
 ##### Was würdest du Leuten sagen, die selber Drogen nehmen oder jemanden kennen?
 
-> Wie gesagt, wenn möglich nie anfassen und auch wenn man Leute in Serien sieht, die so etwas nehmen und sich dann denkt "Omg so cool" es ist nicht cool. Du hast vielleicht für einen kurzen Moment ein gutes Gefühl aber schlussendlich es sind immer noch Drogen, es ist nicht gut, wenn möglich aufhören oder gar nicht erst anfangen.
+> Wie gesagt, wenn möglich nie anfassen und auch wenn man Leute in Serien sieht, die so etwas nehmen und sich dann denkt "Oh mein Gott, so cool" es ist nicht cool. Du hast vielleicht für einen kurzen Moment ein gutes Gefühl, aber schlussendlich sind es immer noch Drogen und sie sind nicht gut.
+>
+> Am besten aufhören oder gar nicht erst anfangen.
 
 ##### Wenige Zeit nach dem Interview raucht ein Mann, nicht weit von uns entfernt, Marihuana. Währenddessen sind nicht weit von uns entfernt mehrere Familien mit Kindern, die spielen.
 
