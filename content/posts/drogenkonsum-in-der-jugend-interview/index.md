@@ -45,7 +45,9 @@ description = "Ich habe jemanden, der persönlich unter Drogenkonsum leidet, int
 
 ##### Ist der Zugang zu illegalen Drogen einfach? Was ist deine Meinung dazu?
 
-> Du wärst erstaunt, wie einfach es ist. Man kann gefühlt immer und überall ein Gramm Gras oder irgend etwas in der Richtung finden. Es ist extrem einfach und es hat so viele Leute, die verkaufen. 
+> Du wärst erstaunt, wie einfach es ist. Man kann gefühlt immer und überall ein Gramm Gras oder irgend etwas in der Richtung finden. 
+>
+> Es ist extrem einfach und es hat so viele Leute, die verkaufen. 
 >
 > Allein in dieser Stadt hier, ich könnte dir so eine grosse Auswahl von Leuten angeben, du wärst erstaunt.
 
