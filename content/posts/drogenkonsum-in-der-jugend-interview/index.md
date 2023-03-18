@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Drogenkonsum"]
 image = "shayenne-1-2-.jpg"
-description = "Ich habe jemanden der mit persönlich unter Drogenkonsum leidet Interviewt. \nWie kommt es so weit? Was sind Auslöser und Schwierigkeiten?"
+description = "Ich habe jemanden, der mit persönlich unter Drogenkonsum leidet, interviewt. \nWie kommt es so weit? Was sind Auslöser und Schwierigkeiten? Hier ist ein Einblick in illegalen Suchtmitteln und deren Effekte."
 +++
 ![Interview Shayenne Tuma im Stadtpark Biel 02.03.2023](shayenne-1-2-.jpg)
 
@@ -45,6 +45,6 @@ description = "Ich habe jemanden der mit persönlich unter Drogenkonsum leidet I
 
 {{<box>}}
 
-Sayenne Tuma ist in Frinvillier geboren und aufgewachsen. Sie hatte eine schwierige Kindheit hinter sich und lebt nun momentan in Zürich. Sie ist in ihrem leben oft in kontakt mit illegalen Suchtmittel gekommen die sie und ihr Umfeld negativ beeinflussen. Sie trotz Schwierigkeiten schliesst sie bald ihre lehr im Detailhandel ab.
+Sayenne Tuma ist in Frinvillier geboren und aufgewachsen. Sie hatte eine schwierige Kindheit hinter sich und lebt nun momentan in Zürich. Sie ist in ihrem Leben oft in Kontakt mit illegalen Suchtmittel gekommen, die sie und ihr Umfeld negativ beeinflussen. Trotz Schwierigkeiten schliesst sie bald ihre Lehre im Detailhandel ab.
 
 {{<box>}}
