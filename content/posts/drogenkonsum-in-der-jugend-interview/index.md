@@ -35,7 +35,9 @@ Ist der Zugang zu illegalen Drogen einfach? Was ist deine Meinung dazu?
 
 > du wärst erstaunt wie einfach es ist. Man kann gefühlt immer und überall ein gramm gras oder irgend so etwas finden. es ist extrem einfach und es hat so viel leute die verkaufen. allein in dieser stadt hier ich könnte dir so eine grosse auswahl angeben du wärst erstaunt
 
-Was konnte Leuten helfen die jemanden haben oder selber haben der praktiziert?
+Was würdest du leuten sagen dei selber drogen nehmen oder jemanden kennen?
+
+wie gesagt wenn möglich nie anfassen und auch wenn man leute in serien sieht die so etwas nehmen und sich dann denkt "omg so cool" es ist nicht so cool. du hast vielleicht für einen kurzen moment ein gutes gefühl aber schlussendlich es sind immer noch drogen es ist nicht gut wenn möglich aufhören oder gar nicht erst anfangen 
 
 {{<box>}}
 
