@@ -29,9 +29,11 @@ Hast du schon versucht aufzuhören?
 
 Was hat es für Auswirkungen auf dich und/oder dein Umfeld?
 
+> Ich meine es hat einen grund das drogen illegal sind weil es beeinflusst dein leben auf eine nicht sehr angenehme art. zum beispiel mache ich eine lehr und ich hab angefangen zu schwänzen, ich hab mich immer wieder krank gemeldet weil ich keine motivation gehabt habe oder immer noch high gewesen bin vom vorabend und gewusst habe das ich nicht aufstehen kann und das man mich sowieso nicht brauchen konnte so sachen also wenn möglich nicht so sachen anfassen bitte.
+
 Ist der Zugang zu illegalen Drogen einfach? Was ist deine Meinung dazu?
 
-> E
+> du wärst erstaunt wie einfach es ist. Man kann gefühlt immer und überall ein gramm gras oder irgend so etwas finden. es ist extrem einfach und es hat so viel leute die verkaufen. allein in dieser stadt hier ich könnte dir so eine grosse auswahl angeben du wärst erstaunt
 
 Was konnte Leuten helfen die jemanden haben oder selber haben der praktiziert?
 
