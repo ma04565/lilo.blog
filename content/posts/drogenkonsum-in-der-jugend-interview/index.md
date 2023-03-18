@@ -13,17 +13,23 @@ description = "Ich habe jemanden, der mit persönlich unter Drogenkonsum leidet,
 
 > Also um ehrlich zu sein bin ich mit Leuten um mich aufgewachsen, die Drogen nehmen. Eigentlich von Geburt an.
 
+
+
 ##### Was für Drogen hast du schon genommen? Planst du mehr zu nehmen? Welche?
 
-> Also eigentlich nicht so viel. Ich habe einfach Ecstasy mal probiert, Gras geraucht und auch Hasch geraucht. Sonst eigentlich nichts.
+> Also eigentlich nicht so viel. Ich habe einfach Ecstasy mal probiert, Gras und auch Hasch geraucht. Sonst eigentlich nichts.
+
+
 
 ##### Wie ist dein Umfeld? Kennst du viele Leute, die Drogen konsumieren?
 
-> Ich kenne sehr viele Leute die Drogen nehmen. Also du wärst erstaunt, wie viele Leute um dich Drogen nehmen, obwohl du sie kennst.
+> Ich kenne sehr viele Leute die Drogen nehmen. Du wärst erstaunt, wie viele Leute um dich Drogen nehmen, obwohl du denkst das du sie kennst.
+
+
 
 ##### Aus welchen Gründen hast du angefangen?
 
-> Es hat nicht einen richtigen Grund. Es ist einfach so dass Menschen um mich herum es gemacht haben und irgendwann haben wir uns mit Kollegen gedacht, dass es ja nicht so schlimm sein kann, wenn alle um uns herum das auch machen. Probieren wir es auch mal.
+> Es hatte nicht einen richtigen Grund. Es ist einfach so dass Menschen um mich herum es gemacht haben und irgendwann habe ich mit Kollegen überlegt, dass es ja nicht so schlimm sein kann, wenn es alle um uns herum das auch machen. Probieren wir es auch mal aus.
 
 ##### Hast du schon versucht aufzuhören?
 
