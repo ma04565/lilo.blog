@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Drogenkonsum"]
 image = "shayenne-1-2-.jpg"
-description = "Ich habe jemanden der mir persönlichem Drogenkonsum interviewt. \nWie kommt es so weit? Was sind Auslöser und Schwierigkeiten?"
+description = "Ich habe jemanden der mit persönlich unter Drogenkonsum leidet Interviewt. \nWie kommt es so weit? Was sind Auslöser und Schwierigkeiten?"
 +++
 
 
