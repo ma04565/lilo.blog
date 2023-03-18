@@ -27,7 +27,9 @@ description = "Ich habe jemanden, der mit persönlich unter Drogenkonsum leidet,
 
 ##### Hast du schon versucht aufzuhören?
 
-> Ich habe schon öfters versucht aufzuhören, aber momentan bin ich schon eine Weile nüchtern. Es ist anstrengend und man braucht Selbstdisziplin, also wenn du aufhören willst und du trotzdem mit den Leuten abhängst, die es weiterhin machen ist es heikel, aber wenn sie auch aufhören, dann kann man das eigentlich relativ gut durchziehen. Man kann sich somit nämlich gegenseitig supporten.
+> Ich habe schon öfters versucht aufzuhören, aber momentan bin ich schon eine Weile nüchtern. 
+>
+> Es ist anstrengend und man braucht Selbstdisziplin, also wenn du aufhören willst und du trotzdem mit den Leuten abhängst, die es weiterhin machen ist es heikel, aber wenn sie auch aufhören, dann kann man das eigentlich relativ gut durchziehen. Man kann sich somit nämlich gegenseitig supporten.
 
 ##### Was hat es für Auswirkungen auf dich und/oder dein Umfeld?
 
