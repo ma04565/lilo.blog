@@ -33,11 +33,13 @@ description = "Ich habe jemanden, der mit persönlich unter Drogenkonsum leidet,
 
 ##### Hast du schon versucht aufzuhören?
 
-> Ich habe schon öfters versucht, aber momentan bin ich schon eine Weile nüchtern. es ist anstrengend und man braucht Selbstdisziplin, also wenn du aufhören willst und du trotzdem mit Leuten abhängst, die es weiterhin machen ist es heikel, aber wenn du mit den Leuten bist wie immer und sie auch aufhören, dann kann man das eigentlich relativ gut durchziehen. Denn man kann sich so gegenseitig supporten.
+> Ich habe schon öfters versucht aufzuhören, aber momentan bin ich schon eine Weile nüchtern. Es ist anstrengend und man braucht Selbstdisziplin, also wenn du aufhören willst und du trotzdem mit den Leuten abhängst, die es weiterhin machen ist es heikel, aber wenn sie auch aufhören, dann kann man das eigentlich relativ gut durchziehen. Man kann sich somit nämlich gegenseitig supporten.
 
 ##### Was hat es für Auswirkungen auf dich und/oder dein Umfeld?
 
-> Ich meine es hat einen Grund, dass Drogen illegal sind, weil es beeinflusst dein Leben auf eine nicht sehr angenehme Art. Zum Beispiel mache ich eine Lehre und ich habe angefangen zu schwänzen, ich hab mich immer wieder krankgemeldet, weil ich keine Motivation gehabt habe oder immer noch high gewesen bin vom Vorabend und gewusst habe das ich nicht aufstehen kann und das man mich sowieso nicht brauchen konnte so Sachen. Wenn möglich nicht solche Sachen anfassen, bitte.
+> Ich meine es hat einen Grund, dass Drogen illegal sind. Es beeinflusst dein Leben auf eine nicht sehr angenehme Art. Zum Beispiel mache ich eine Lehre und ich habe angefangen zu schwänzen, ich hab mich immer wieder krankgemeldet, weil ich keine Motivation gehabt habe oder immer noch high vom Vorabend gewesen bin und gewusst habe das ich nicht aufstehen kann. Auch das man mich sowieso so nicht brauchen konnte solche dinge halt. 
+>
+> Wenn möglich nicht solche Sachen anfassen, bitte.
 
 ##### Ist der Zugang zu illegalen Drogen einfach? Was ist deine Meinung dazu?
 
