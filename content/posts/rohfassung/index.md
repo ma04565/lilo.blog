@@ -26,9 +26,19 @@ Der allgemeine Konsum von illegalen Substanzen ist in der Schweiz am Steigen. Ei
 
 <!--EndFragment-->
 
+\####
+
+<!--StartFragment-->
+
+Acht von zehn Personen trinken Alkohol, jede vierte raucht, und mehr als 200'000 Personen im Erwerbsalter haben im vergangenen Monat mindestens einmal Cannabis konsumiert. Doppelt so viele Personen geben an, bereits einmal im Leben eine illegale Substanz (ohne Cannabis) konsumiert zu haben.
+
+<!--EndFragment-->
+
+\###
+
 *"Ich habe einfach Ecstasy mal probiert, Gras und auch Hasch geraucht.“* Berichtet Shayenne. Solch eine Sucht in der Jugend wird oft noch als Kind mit nahmen Kontakt zu Suchtmitteln ausgelöst. *„Ich bin mit Leuten um mich aufgewachsen, die Drogen nehmen, also eigentlich von Geburt an.“*
 
-Es hat bei Shayenne hauptsächlich damit angefangen, dass die Leute in ihrem Umfeld angefangen haben und sie sich mit einigen Kollegen überlegt hat, dass es anscheinend ja nicht so schlimm sei, wenn alle um sie das auch machen.
+Es hat bei Shayenne damit angefangen, dass die Leute in ihrem Umfeld angefangen haben und sie sich mit einigen Kollegen überlegt hat, dass es anscheinend ja nicht so schlimm sei, wenn alle um sie das auch machen.
 
 Dabei ist die Anschaffung erstaunlich einfach, erzählt sie. *„Allein in dieser Stadt hier, ich könnte dir so eine grosse Auswahl von Leuten angeben, du wärst erstaunt.“* 
 
@@ -39,5 +49,7 @@ Sie habe schon öfters versucht aufzuhören und ist nun schon eine Weile nüchte
 Shayenne erzählt, dass man Suchtmittel erst gar nicht anfangen sollte, selbst wenn man es zum Beispiel in Serien sieht. Man hat für einen kurzen Moment ein gutes Gefühl, aber schlussendlich sind es immer noch Drogen und die sind nicht gut.
 
 „Wie gesagt, wenn möglich nie anfassen „
+
+
 
 **Wenige Zeit nach dem Interview raucht ein Mann, nicht weit von uns entfernt, Marihuana. Währenddessen sind nicht weit von uns entfernt mehrere Familien mit Kindern, die auf einem Spielplatz spielen.**
