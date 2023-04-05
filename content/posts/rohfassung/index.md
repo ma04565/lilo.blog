@@ -20,6 +20,12 @@ Shayenne Tuma hat persönliche erlebnisse damit gemacht und berichtet nun davon.
 
 Der allgemeine Konsum von illegalen Substanzen ist in der Schweiz am Steigen. Einnahme von Cannabis, Kokain, Ecstasy sind seit den 90er Jahren am Zunehmen, mit keinen Anzeichen darauf, dass sich dies bald ändert. Heroin nimmt seit 2007 ab. 
 
+<!--StartFragment-->
+
+**Im Jahr 2017 haben 14% der Bevölkerung zwischen 15 und 34 Jahren innerhalb des letzten Jahres Cannabis konsumiert**
+
+<!--EndFragment-->
+
 *"Ich habe einfach Ecstasy mal probiert, Gras und auch Hasch geraucht.“* Berichtet Shayenne. Solch eine Sucht in der Jugend wird oft noch als Kind mit nahmen Kontakt zu Suchtmitteln ausgelöst. *„Ich bin mit Leuten um mich aufgewachsen, die Drogen nehmen, also eigentlich von Geburt an.“*
 
 Es hat bei Shayenne hauptsächlich damit angefangen, dass die Leute in ihrem Umfeld angefangen haben und sie sich mit einigen Kollegen überlegt hat, dass es anscheinend ja nicht so schlimm sei, wenn alle um sie das auch machen.
