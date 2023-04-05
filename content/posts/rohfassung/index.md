@@ -16,7 +16,7 @@ Die Steigung von Jugendliche die illegale Drogen konsumieren ist an vielen Orten
 
 Shayenne Tuma hat persönliche erlebnisse damit gemacht und berichtet nun davon.
 
-![Interview Shayenne Tuma im Stadtpark Biel 02.03.2023](shayenne-1-2-.jpg)
+![Interview Shayenne Tuma im Stadtpark Biel 02.03.2023](shayenne-1-2-.jpg "Shayenne Tuma hat persönliche erlebnisse damit gemacht und berichtet nun davon.")
 
 Der allgemeine Konsum von illegalen Substanzen ist in der Schweiz am Steigen. Einnahme von Cannabis, Kokain, Ecstasy sind seit den 90er Jahren am Zunehmen, mit keinen Anzeichen darauf, dass sich dies bald ändert. Heroin nimmt seit 2007 ab. 
 
