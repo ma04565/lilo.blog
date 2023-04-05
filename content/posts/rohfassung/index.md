@@ -6,13 +6,11 @@ pinned = false
 image = "shayenne-1-2-.jpg"
 description = "Die Steigung von Jugendliche die illegale Drogen konsumieren ist an vielen Orten und auch in der Schweiz am Steigen. Warum ist das so? Gibt es bestimmte Gründe und was kann man dagegen machen?"
 +++
-Ich habe dafür jemand, der selbst Drogen konsumiert interviewt und bin dem ganzen Thema mehr zugrunde gegangen.
+Shayenne Tuma hat persönliche erlebnisse damit gemacht und berichtet nun davon.
 
 
 
-Shayenne tuma hat persönliche erlebnisse damit gemacht und berichtet nun davon.
-
- 
+![Interview Shayenne Tuma im Stadtpark Biel 02.03.2023](shayenne-1-2-.jpg)
 
 Der allgemeine Konsum von illegalen Substanzen ist in der Schweiz am Steigen. Einnahme von Cannabis, Kokain, Ecstasy sind seit den 90er Jahren am Zunehmen, mit keinen Anzeichen darauf, dass sich dies bald ändert. Heroin nimmt seit 2007 ab. "Ich habe einfach Ecstasy mal probiert, Gras und auch Hasch geraucht.“ Berichtet shayenne
 
