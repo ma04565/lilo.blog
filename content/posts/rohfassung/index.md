@@ -12,9 +12,11 @@ description = "Die Steigung von Jugendliche die illegale Drogen konsumieren ist 
 
 Die Steigung von Jugendliche, die illegale Drogen konsumieren ist an vielen Orten und auch in der Schweiz am Steigen. Warum ist das so? Gibt es bestimmte Gründe und was kann man dagegen machen?
 
+Shayenne Tuma hat persönliche Erlebnisse damit gemacht und berichtet nun davon.
+
 {{</box>}}
 
-Shayenne Tuma hat persönliche Erlebnisse damit gemacht und berichtet nun davon.
+
 
 ![Interview Shayenne Tuma im Stadtpark Biel 02.03.2023](shayenne-1-2-.jpg)
 
