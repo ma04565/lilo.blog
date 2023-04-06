@@ -26,15 +26,7 @@ Der allgemeine Konsum von illegalen Substanzen ist in der Schweiz am Steigen. Ei
 
 <!--EndFragment-->
 
-\####
 
-<!--StartFragment-->
-
-Acht von zehn Personen trinken Alkohol, jede vierte raucht, und mehr als 200'000 Personen im Erwerbsalter haben im vergangenen Monat mindestens einmal Cannabis konsumiert. Doppelt so viele Personen geben an, bereits einmal im Leben eine illegale Substanz (ohne Cannabis) konsumiert zu haben.
-
-<!--EndFragment-->
-
-\###
 
 *"Ich habe einfach Ecstasy mal probiert, Gras und auch Hasch geraucht.“* Berichtet Shayenne. Solch eine Sucht in der Jugend wird oft noch als Kind mit nahmen Kontakt zu Suchtmitteln ausgelöst. *„Ich bin mit Leuten um mich aufgewachsen, die Drogen nehmen, also eigentlich von Geburt an.“*
 
