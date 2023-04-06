@@ -6,7 +6,7 @@ pinned = false
 image = "shayenne-1-2-.jpg"
 description = "Die Steigung von Jugendliche die illegale Drogen konsumieren ist an vielen Orten und auch in der Schweiz am Steigen. Warum ist das so? Gibt es bestimmte Gründe und was kann man dagegen machen?"
 +++
-## Steigender Drogenkonsum in der Jugend
+# Steigender Drogenkonsum in der Jugend
 
 {{<box>}}
 
@@ -24,11 +24,7 @@ Der allgemeine Konsum von illegalen Substanzen ist in der Schweiz am Steigen. Ei
 
 Es hat bei Shayenne damit angefangen, dass die Leute in ihrem Umfeld angefangen haben und sie sich mit einigen Kollegen überlegt hat, dass es anscheinend ja nicht so schlimm sei, wenn alle um sie das auch machen.
 
-<!--StartFragment-->
-
 `Im Jahr 2017 haben 14% der Bevölkerung zwischen 15 und 34 Jahren innerhalb des letzten Jahres Cannabis konsumiert`
-
-<!--EndFragment-->
 
 Dabei ist die Anschaffung erstaunlich einfach, erzählt sie. *„Allein in dieser Stadt hier, ich könnte dir so eine grosse Auswahl von Leuten angeben, du wärst erstaunt.“* 
 
