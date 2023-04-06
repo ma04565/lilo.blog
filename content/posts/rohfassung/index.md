@@ -40,7 +40,7 @@ Sie habe schon öfters versucht aufzuhören und ist nun schon eine Weile nüchte
 
 Drogenkonsum ist also wirklich ein ernstes Problem, was man am besten von früh an aus dem Weg gehen sollte.
 
-Shayenne erzählt, dass man Suchtmittel erst gar nicht anfangen sollte, selbst wenn man es zum Beispiel in Serien sieht. Man hat für einen kurzen Moment ein gutes Gefühl, aber schlussendlich sind es immer noch Drogen und die sind nicht gut. „Wie gesagt, wenn möglich nie anfassen „
+Shayenne erzählt, dass man Suchtmittel erst gar nicht anfangen sollte, selbst wenn man es zum Beispiel in Serien sieht. Man hat für einen kurzen Moment ein gutes Gefühl, aber schlussendlich sind es immer noch Drogen und sie sind nicht gut. „Wie gesagt, wenn möglich nie anfassen „
 
 Es ist also ganz klar, Prävention ist das beste Mittel dagegen.
 
