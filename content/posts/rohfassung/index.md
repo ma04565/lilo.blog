@@ -26,7 +26,7 @@ Es hat bei Shayenne damit angefangen, dass die Leute in ihrem Umfeld angefangen 
 
 <!--StartFragment-->
 
-**Im Jahr 2017 haben 14% der Bevölkerung zwischen 15 und 34 Jahren innerhalb des letzten Jahres Cannabis konsumiert**
+`Im Jahr 2017 haben 14% der Bevölkerung zwischen 15 und 34 Jahren innerhalb des letzten Jahres Cannabis konsumiert`
 
 <!--EndFragment-->
 
