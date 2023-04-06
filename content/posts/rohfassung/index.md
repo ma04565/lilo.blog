@@ -34,11 +34,11 @@ Dabei ist die Anschaffung erstaunlich einfach, erzählt sie. *„Allein in diese
 
 `Im Jahr 2022 wurden in Kanton Bern rund 6.114 Straftaten nach dem Betäubungsmittelgesetz angezeigt.`
 
-Sie habe schon öfters versucht aufzuhören und ist nun schon eine Weile nüchtern. Man sollte auch, wenn möglich, sich nicht mit Leuten treffen, die weiterhin Drogen nehmen, weil es das Aufhören erschwert. Am besten findet man sich Leute, die selbst auch aufhören wollen. „Man kann sich somit nämlich gegenseitig supporten.“
+Sie habe schon öfters versucht aufzuhören und ist nun schon eine Weile nüchtern. Man sollte auch, wenn möglich, sich nicht mit Leuten treffen, die weiterhin Drogen nehmen, weil es das Aufhören erschwert. Am besten findet man sich Leute, die selbst auch aufhören wollen. „*Man kann sich somit nämlich gegenseitig supporten.*“
 
 Drogenkonsum ist also wirklich ein ernstes Problem, was man am besten von früh an aus dem Weg gehen sollte.
 
-Shayenne erzählt, dass man Suchtmittel erst gar nicht anfangen sollte, selbst wenn man es zum Beispiel in Serien sieht. Man hat für einen kurzen Moment ein gutes Gefühl, aber schlussendlich sind es immer noch Drogen und sie sind nicht gut. „Wie gesagt, wenn möglich nie anfassen „
+Shayenne erzählt, dass man Suchtmittel erst gar nicht anfangen sollte, selbst wenn man es zum Beispiel in Serien sieht. Man hat für einen kurzen Moment ein gutes Gefühl, aber schlussendlich sind es immer noch Drogen und sie sind nicht gut. „*Wie gesagt, wenn möglich nie anfassen* „
 
 Es ist also ganz klar, Prävention ist das beste Mittel dagegen.
 
