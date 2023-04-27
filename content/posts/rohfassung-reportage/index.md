@@ -19,7 +19,7 @@ In diesem Park berichtet Shayenne Tuma über ihre eigenen Erfahrungen mit illega
 
 Die Einnahme von Cannabis, Kokain oder Ekstase sind seit den 90er Jahren am Zunehmen, mit keinen Anzeichen darauf, dass sich dies bald ändert. Die Heroin einnahmen nehmen seit 2007 ab. Diese Suchtmittel werden deutlich am häufigsten eingenommen. Shayenne hat davon auch schon Cannabis und Ekstase eingenommen.
 
-Eine Drogensucht in der Jugend wird oft schon als Kind mit nahmen Kontakt zu Suchtmitteln beeinflusst. *„Ich bin mit Leuten um mich aufgewachsen, die Drogen nehmen, also eigentlich von Geburt an“* Berichtet Shayenne.
+Eine Drogensucht in der Jugend wird oft schon als Kind mit nahmen Kontakt zu Suchtmitteln beeinflusst. *„Ich bin mit Leuten um mich aufgewachsen, die Drogen nehmen, also eigentlich von Geburt an“* Berichtet Shayenne etwas melancholisch.
 
 Es habe bei ihr mit den Einnahmen von Drogen hauptsächlich angefangen, als die Leute in ihrem Umfeld mit dem Konsum begonnen haben und sie mit einigen Kollegen zum Entschluss kamen das, es anscheinend nicht so schlimm sei und sogar cool sein könnte.
 
