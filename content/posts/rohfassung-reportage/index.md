@@ -4,15 +4,13 @@ date = "2023-04-27"
 draft = false
 pinned = false
 image = "shayenne-1-2-.jpg"
-description = "Die Steigung von Jugendliche die illegale Drogen konsumieren ist an vielen Orten und auch in der Schweiz am Steigen. Warum ist das so? Gibt es bestimmte Gründe und was kann man dagegen machen?"
+description = "Drogenkonsum gründe und deren Auswirkungen in der Jugend."
 +++
 # Steigender Drogenkonsum in der Jugend
 
 {{<box>}}
 
-Die Steigung von Jugendliche, die illegale Drogen konsumieren, ist an vielen Orten und auch in der Schweiz am Steigen. Warum ist das so? Gibt es bestimmte Gründe und was kann man dagegen machen?
-
-Shayenne Tuma hat persönliche Erlebnisse damit gemacht und berichtet nun davon.
+Die stetige Steigung von Jugendlichen die illegale Drogen konsumieren, ist unter anderem auch in der Schweiz am Steigen. Warum ist das so? Gibt es bestimmte Gründe und was kann man dagegen machen? Ich habe jemanden, der selbst Drogen konsumiert getroffen und bin dem ganzen Thema mehr zugrunde gegangen.
 
 {{</box>}}
 
