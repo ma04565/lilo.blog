@@ -15,31 +15,29 @@ Im Stadtpark von Biel ist es ein sonniger Tag. Man hört die Vögel zwitschern u
 
 In diesem Park berichtet Shayenne Tuma über ihre eigenen Erfahrungen mit illegalen Drogen und deren Auswirkung auf ihr Leben.
 
-
-
 ### Welche drogen werden konsumiert?
 
-Der allgemeine Konsum von illegalen Substanzen ist in der Schweiz am Steigen. Einnahme von Cannabis, Kokain, Ecstasy sind seit den 90er Jahren am Zunehmen, mit keinen Anzeichen darauf, dass sich dies bald ändert. Heroin nimmt seit 2007 ab. 
+Die Einnahme von Cannabis, Kokain oder Ekstase sind seit den 90er Jahren am Zunehmen, mit keinen Anzeichen darauf, dass sich dies bald ändert. Die Heroin einnahmen nehmen seit 2007 ab. Diese Suchtmittel werden deutlich am häufigsten eingenommen. Shayenne hat davon auch schon Cannabis und Ekstase eingenommen.
 
-*"Ich habe einfach Ecstasy mal probiert, Gras und auch Hasch geraucht.“* Berichtet Shayenne. Solch eine Sucht in der Jugend wird oft noch als Kind mit nahmen Kontakt zu Suchtmitteln ausgelöst. *„Ich bin mit Leuten um mich aufgewachsen, die Drogen nehmen, also eigentlich von Geburt an.“*
+Eine Drogensucht in der Jugend wird oft schon als Kind mit nahmen Kontakt zu Suchtmitteln beeinflusst. „Ich bin mit Leuten um mich aufgewachsen, die Drogen nehmen, also eigentlich von Geburt an“ Berichtet Shayenne.
 
-Es hat bei Shayenne damit angefangen, dass die Leute in ihrem Umfeld angefangen haben und sie sich mit einigen Kollegen überlegt hat, dass es anscheinend ja nicht so schlimm sei, wenn alle um sie das auch machen.
+Es habe bei ihr mit den Einnahmen von Drogen hauptsächlich angefangen, als die Leute in ihrem Umfeld mit dem Konsum begonnen haben und sie mit einigen Kollegen zum Entschluss kamen das, es anscheinend nicht so schlimm sei und sogar cool sein könnte.
 
-Dabei ist die Anschaffung erstaunlich einfach, erzählt sie. *„Allein in dieser Stadt hier, ich könnte dir so eine grosse Auswahl von Leuten angeben, du wärst erstaunt.“* 
+Dabei ist die Anschaffung von illegalen Drogen erstaunlich einfach, erzählt sie. „Allein in dieser Stadt hier, könnte ich dir so eine grosse Auswahl von Leuten angeben, man wäre erstaunt.“
 
 
 
 ### Die Schwierigkeit aufzuhören
 
-Sie habe schon öfters versucht aufzuhören und ist nun schon eine Weile nüchtern. Man sollte auch, wenn möglich, sich nicht mit Leuten treffen, die weiterhin Drogen nehmen, weil es das Aufhören erschwert. Am besten findet man sich Leute, die selbst auch aufhören wollen. „*Man kann sich somit nämlich gegenseitig supporten.*“
+Sie habe schon öfters versucht aufzuhören und ist nun schon eine Weile nüchtern. Man sollte auch, wenn möglich, sich nicht mit Leuten treffen, die weiterhin Drogen nehmen, weil es das Aufhören erschwert. Am besten findet man sich Leute, die selbst auch aufhören wollen. *„Man kann sich somit nämlich gegenseitig supporten.“*
 
 Drogenkonsum ist also wirklich ein ernstes Problem, was man am besten von früh an aus dem Weg gehen sollte.
 
-Shayenne erzählt, dass man Suchtmittel erst gar nicht anfangen sollte, selbst wenn man es zum Beispiel in Serien sieht. Man hat für einen kurzen Moment ein gutes Gefühl, aber schlussendlich sind es immer noch Drogen und sie sind nicht gut. „*Wie gesagt, wenn möglich nie anfassen* „
+Shayenne erzählt, dass man Suchtmittel erst gar nicht anfangen sollte, selbst wenn man es zum Beispiel in Film Serien sieht. Man hat für einen kurzen Moment ein gutes Gefühl, aber schlussendlich sind es immer noch Drogen und die sind nicht gut. *„Wie gesagt, wenn möglich nie anfassen.“* Empfiehlt Shayenne.
 
 Es ist also ganz klar, Prävention ist das beste Mittel dagegen.
 
-**Wenige Zeit nach dem Interview raucht ein Mann, nicht weit von uns entfernt, Marihuana. Währenddessen sind nicht weit von uns entfernt mehrere Familien mit Kindern, die auf einem Spielplatz spielen.**
+Wenige Zeit nach dem Interview raucht ein Mann, nicht weit von uns entfernt, Marihuana. Währenddessen sind nicht weit von uns entfernt Kinder, die auf einem Spielplatz spielen.
 
 {{<box>}}
 
