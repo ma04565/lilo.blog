@@ -10,6 +10,12 @@ description = "Drogenkonsum gründe und deren Auswirkungen in der Jugend.\n\nDie
 
 ![Interview Shayenne Tuma im Stadtpark Biel 02.03.2023](shayenne-1-2-.jpg)
 
+Im Stadtpark von Biel ist es ein sonniger Tag. Man hört die Vögel zwitschern und Kinder die vor Freude kreischen. Am Rand hat es viel Gestrüpp und Sträucher, in den man ideal spielen kann. Hier findet oft der Austausch von illegalen Drogen statt.
+
+In diesem Park berichtet Shayenne Tuma über ihre eigenen Erfahrungen mit illegalen Drogen und deren Auswirkung auf ihr Leben.
+
+
+
 ### Welche drogen werden konsumiert?
 
 Der allgemeine Konsum von illegalen Substanzen ist in der Schweiz am Steigen. Einnahme von Cannabis, Kokain, Ecstasy sind seit den 90er Jahren am Zunehmen, mit keinen Anzeichen darauf, dass sich dies bald ändert. Heroin nimmt seit 2007 ab. 
@@ -19,6 +25,8 @@ Der allgemeine Konsum von illegalen Substanzen ist in der Schweiz am Steigen. Ei
 Es hat bei Shayenne damit angefangen, dass die Leute in ihrem Umfeld angefangen haben und sie sich mit einigen Kollegen überlegt hat, dass es anscheinend ja nicht so schlimm sei, wenn alle um sie das auch machen.
 
 Dabei ist die Anschaffung erstaunlich einfach, erzählt sie. *„Allein in dieser Stadt hier, ich könnte dir so eine grosse Auswahl von Leuten angeben, du wärst erstaunt.“* 
+
+
 
 ### Die Schwierigkeit aufzuhören
 
@@ -34,7 +42,7 @@ Es ist also ganz klar, Prävention ist das beste Mittel dagegen.
 
 {{<box>}}
 
-`Im Jahr 2017 haben 14% der Bevölkerung zwischen 15 und 34 Jahren innerhalb des letzten Jahres Cannabis konsumiert `
+`Im Jahr 2017 haben 14% der Bevölkerung zwischen 15 und 34 Jahren innerhalb des letzten Jahres Cannabis konsumiert`
 
 `Im Jahr 2022 wurden in Kanton Bern rund 6.114 Straftaten nach dem Betäubungsmittelgesetz angezeigt.`
 
