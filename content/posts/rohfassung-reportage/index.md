@@ -15,7 +15,7 @@ Im Stadtpark von Biel ist es ein sonniger Tag. Man hört die Vögel zwitschern u
 
 In diesem Park berichtet Shayenne Tuma über ihre eigenen Erfahrungen mit illegalen Drogen und deren Auswirkung auf ihr Leben.
 
-### Welche drogen werden konsumiert?
+### Welche Drogen werden konsumiert?
 
 Die Einnahme von Cannabis, Kokain oder Ekstase sind seit den 90er Jahren am Zunehmen, mit keinen Anzeichen darauf, dass sich dies bald ändert. Die Heroin einnahmen nehmen seit 2007 ab. Diese Suchtmittel werden deutlich am häufigsten eingenommen. Shayenne hat davon auch schon Cannabis und Ekstase eingenommen.
 
