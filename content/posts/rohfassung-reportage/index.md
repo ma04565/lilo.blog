@@ -25,13 +25,15 @@ Es habe bei ihr mit den Einnahmen von Drogen hauptsächlich angefangen, als die 
 
 Dabei ist die Anschaffung von illegalen Drogen erstaunlich einfach, erzählt sie. „*Allein in dieser Stadt hier, könnte ich dir so eine grosse Auswahl von Leuten angeben, man wäre erstaunt.“*
 
+Shayenne nimmt ihr Handy hervor und zeigt mir einige Screenshots von online Portalen, die illegalen Suchtmittel anwerben. Es ist skurril wie die Produkte wie bei einer üblichen online Shopping Webseite mit Werbesprüchen und professionellen Bildern ausgestattet ist.
+
 ### Die Schwierigkeit aufzuhören
 
 Sie habe schon öfters versucht aufzuhören und ist nun schon eine Weile nüchtern. Man sollte auch, wenn möglich, sich nicht mit Leuten treffen, die weiterhin Drogen nehmen, weil es das Aufhören erschwert. Am besten findet man sich Leute, die selbst auch aufhören wollen. *„Man kann sich somit nämlich gegenseitig supporten.“*
 
 Drogenkonsum ist also wirklich ein ernstes Problem, was man am besten von früh an aus dem Weg gehen sollte.
 
-Shayenne erzählt, dass man Suchtmittel erst gar nicht anfangen sollte, selbst wenn man es zum Beispiel in Film Serien sieht. Man hat für einen kurzen Moment ein gutes Gefühl, aber schlussendlich sind es immer noch Drogen und die sind nicht gut. *„Wie gesagt, wenn möglich nie anfassen.“* Empfiehlt Shayenne.
+Shayenne erzählt, dass man Suchtmittel erst gar nicht anfangen sollte, selbst wenn man es zum Beispiel in Film Serien sieht. Man hat für einen kurzen Moment ein gutes Gefühl, aber schlussendlich sind es immer noch Drogen und die sind nicht gut. *„Wie gesagt, wenn möglich nie anfassen.“* Empfiehlt Shayenne ernst.
 
 Es ist also ganz klar, Prävention ist das beste Mittel dagegen.
 
