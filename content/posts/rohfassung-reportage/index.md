@@ -4,15 +4,9 @@ date = "2023-04-27"
 draft = false
 pinned = false
 image = "shayenne-1-2-.jpg"
-description = "Drogenkonsum gründe und deren Auswirkungen in der Jugend."
+description = "Drogenkonsum gründe und deren Auswirkungen in der Jugend.\n\nDie stetige Steigung von Jugendlichen die illegale Drogen konsumieren, ist unter anderem auch in der Schweiz am Steigen. Warum ist das so? Gibt es bestimmte Gründe und was kann man dagegen machen? Ich habe jemanden, der selbst Drogen konsumiert getroffen und bin dem ganzen Thema mehr zugrunde gegangen."
 +++
 # Steigender Drogenkonsum in der Jugend
-
-{{<box>}}
-
-Die stetige Steigung von Jugendlichen die illegale Drogen konsumieren, ist unter anderem auch in der Schweiz am Steigen. Warum ist das so? Gibt es bestimmte Gründe und was kann man dagegen machen? Ich habe jemanden, der selbst Drogen konsumiert getroffen und bin dem ganzen Thema mehr zugrunde gegangen.
-
-{{</box>}}
 
 ![Interview Shayenne Tuma im Stadtpark Biel 02.03.2023](shayenne-1-2-.jpg)
 
@@ -24,11 +18,7 @@ Der allgemeine Konsum von illegalen Substanzen ist in der Schweiz am Steigen. Ei
 
 Es hat bei Shayenne damit angefangen, dass die Leute in ihrem Umfeld angefangen haben und sie sich mit einigen Kollegen überlegt hat, dass es anscheinend ja nicht so schlimm sei, wenn alle um sie das auch machen.
 
-`Im Jahr 2017 haben 14% der Bevölkerung zwischen 15 und 34 Jahren innerhalb des letzten Jahres Cannabis konsumiert`
-
 Dabei ist die Anschaffung erstaunlich einfach, erzählt sie. *„Allein in dieser Stadt hier, ich könnte dir so eine grosse Auswahl von Leuten angeben, du wärst erstaunt.“* 
-
-`Im Jahr 2022 wurden in Kanton Bern rund 6.114 Straftaten nach dem Betäubungsmittelgesetz angezeigt.`
 
 ### Die Schwierigkeit aufzuhören
 
@@ -44,6 +34,8 @@ Es ist also ganz klar, Prävention ist das beste Mittel dagegen.
 
 {{<box>}}
 
-Sayenne Tuma ist in Frinvillier geboren und aufgewachsen. Sie hatte eine schwierige Kindheit hinter sich und lebt nun momentan in Zürich. Trotz Schwierigkeiten schliesst sie bald ihre Lehre im Detailhandel ab. Sie ist in ihrem Leben oft in Kontakt mit illegalen Suchtmittel gekommen, die sie und ihr Umfeld negativ beeinflussen. 
+`Im Jahr 2017 haben 14% der Bevölkerung zwischen 15 und 34 Jahren innerhalb des letzten Jahres Cannabis konsumiert `
+
+`Im Jahr 2022 wurden in Kanton Bern rund 6.114 Straftaten nach dem Betäubungsmittelgesetz angezeigt.`
 
 {{</box>}}
