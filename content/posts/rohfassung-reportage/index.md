@@ -3,8 +3,9 @@ title = "Rohfassung Reportage"
 date = "2023-04-27"
 draft = false
 pinned = false
+tags = []
 image = "shayenne-1-2-.jpg"
-description = "Drogenkonsum gründe und deren Auswirkungen in der Jugend.\n\nDie stetige Steigung von Jugendlichen die illegale Drogen konsumieren, ist unter anderem auch in der Schweiz am Steigen. Warum ist das so? Gibt es bestimmte Gründe und was kann man dagegen machen? Ich habe jemanden, der selbst Drogen konsumiert getroffen und bin dem ganzen Thema mehr zugrunde gegangen."
+description = "Die stetige Steigung von Jugendlichen die illegale Drogen konsumieren, ist unter anderem auch in der Schweiz am Steigen. Warum ist das so? Gibt es bestimmte Gründe und was kann man dagegen machen? Ich habe jemanden, der selbst Drogen konsumiert getroffen und bin dem ganzen Thema mehr zugrunde gegangen."
 +++
 # Steigender Drogenkonsum in der Jugend
 
