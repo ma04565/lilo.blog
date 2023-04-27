@@ -25,8 +25,6 @@ Es habe bei ihr mit den Einnahmen von Drogen hauptsächlich angefangen, als die 
 
 Dabei ist die Anschaffung von illegalen Drogen erstaunlich einfach, erzählt sie. „*Allein in dieser Stadt hier, könnte ich dir so eine grosse Auswahl von Leuten angeben, man wäre erstaunt.“*
 
-
-
 ### Die Schwierigkeit aufzuhören
 
 Sie habe schon öfters versucht aufzuhören und ist nun schon eine Weile nüchtern. Man sollte auch, wenn möglich, sich nicht mit Leuten treffen, die weiterhin Drogen nehmen, weil es das Aufhören erschwert. Am besten findet man sich Leute, die selbst auch aufhören wollen. *„Man kann sich somit nämlich gegenseitig supporten.“*
@@ -37,7 +35,7 @@ Shayenne erzählt, dass man Suchtmittel erst gar nicht anfangen sollte, selbst w
 
 Es ist also ganz klar, Prävention ist das beste Mittel dagegen.
 
-Wenige Zeit nach dem Interview raucht ein Mann, nicht weit von uns entfernt, Marihuana. Währenddessen sind nicht weit von uns entfernt Kinder, die auf einem Spielplatz spielen.
+Wenige Zeit nach dem Interview raucht ein Mann, nicht weit entfernt, Marihuana. Währenddessen sind nicht weit von uns entfernt Kinder, die auf einem Spielplatz spielen.
 
 {{<box>}}
 
