@@ -11,6 +11,8 @@ description = "Die Anzahl der Jugendlichen, die illegale Drogen konsumieren, ste
 
 ![Interview Shayenne Tuma im Stadtpark Biel 02.03.2023](shayenne-good-and-cropped-nihdhcosick.jpg)
 
+# Steigender Drogenkonsum in der Jugend
+
 Im Stadtpark von Biel ist es ein sonniger Tag. Man hört die Vögel zwitschern und Kinder die vor Freude kreischen. Am Rand hat es viel Gestrüpp und Sträucher, in den man ideal spielen kann. Hier findet oft der Austausch von illegalen Drogen statt.
 
 In diesem Park berichtet Shayenne Tuma über ihre eigenen Erfahrungen mit illegalen Drogen und deren Auswirkung auf ihr Leben.
