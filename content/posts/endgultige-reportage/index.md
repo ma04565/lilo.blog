@@ -31,11 +31,11 @@ Shayenne nimmt ihr Handy hervor und zeigt mir einige Screenshots von online Port
 
 ### Die Schwierigkeit aufzuhören
 
-Sie habe schon öfters versucht aufzuhören und ist nun schon eine Weile nüchtern. Man sollte auch, wenn möglich, sich nicht mit Leuten treffen, die weiterhin Drogen nehmen, weil es das Aufhören erschwert. Am besten findet man sich Leute, die selbst auch aufhören wollen. *„Man kann sich somit nämlich gegenseitig supporten.“*
+Sie habe schon öfters versucht aufzuhören und ist nun schon eine Weile nüchtern. Man sollte auch, wenn möglich, sich nicht mit Leuten treffen, die weiterhin Drogen nehmen, weil es das Aufhören erschwert, berichtet sie dringlich. Am besten findet man sich Leute, die selbst auch aufhören wollen. *„Man kann sich somit nämlich gegenseitig supporten.“* schildert Shayenne.
 
 Drogenkonsum ist also wirklich ein ernstes Problem, was man am besten von früh an aus dem Weg gehen sollte.
 
-Shayenne erzählt, dass man Suchtmittel erst gar nicht anfangen sollte, selbst wenn man es zum Beispiel in Film Serien sieht. Man hat für einen kurzen Moment ein gutes Gefühl, aber schlussendlich sind es immer noch Drogen und die sind nicht gut. *„Wie gesagt, wenn möglich nie anfassen.“* Empfiehlt Shayenne ernst.
+Shayenne berichtet, dass man Suchtmittel erst gar nicht anfangen sollte, selbst wenn man es zum Beispiel in Film Serien sieht. Man hat für einen kurzen Moment ein gutes Gefühl, aber schlussendlich sind es immer noch Drogen und die sind nicht gut. *„Wie gesagt, wenn möglich nie anfassen.“* Empfiehlt Shayenne ernst.
 
 Es ist also ganz klar, Prävention ist das beste Mittel dagegen.
 
