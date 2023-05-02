@@ -27,7 +27,7 @@ Es habe bei ihr mit den Einnahmen von Drogen hauptsächlich angefangen, als die 
 
 Dabei ist die Anschaffung von illegalen Drogen erstaunlich einfach, erzählt sie. „*Allein in dieser Stadt hier, könnte ich dir so eine grosse Auswahl von Leuten angeben, man wäre erstaunt.“*
 
-Shayenne nimmt ihr Handy hervor und zeigt mir einige Screenshots von online Portalen, die illegalen Suchtmittel anwerben. Es ist skurril wie die Produkte wie bei einer üblichen online Shopping Webseite mit Werbesprüchen und professionellen Bildern ausgestattet ist.
+Shayenne nimmt ihr Handy hervor und zeigt mir einige Screenshots von online Portalen, die illegalen Suchtmittel anwerben. Es ist skurril wie die Produkte wie bei einer üblichen online Shopping Webseite mit Werbesprüchen und professionellen Bildern ausgestattet sind.
 
 ### Die Schwierigkeit aufzuhören
 
