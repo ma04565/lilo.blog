@@ -39,7 +39,7 @@ Shayenne erzählt, dass man Suchtmittel erst gar nicht anfangen sollte, selbst w
 
 Es ist also ganz klar, Prävention ist das beste Mittel dagegen.
 
-Wenige Zeit nach dem Interview raucht ein Mann, nicht weit entfernt, Marihuana. Währenddessen sind nicht weit von uns immer noch Kinder entfernt, die auf einem Spielplatz spielen.
+Wenige Zeit nach dem Interview raucht ein Mann, nicht weit entfernt, Marihuana. Währenddessen sind nicht weit von uns immer noch Kinder, die auf dem Spielplatz spielen.
 
 {{<box>}}
 
