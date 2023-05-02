@@ -7,9 +7,11 @@ tags = ["Drogenkonsum"]
 image = "shayenne-1-2-.jpg"
 description = "Die Anzahl der Jugendlichen, die illegale Drogen konsumieren, steigt weltweit, welches auch in der Schweiz ein aktuelles Problem ist. Warum ist das so? Gibt es bestimmte Gründe und was kann man dagegen machen?\n"
 +++
-# Steigender Drogenkonsum in der Jugend
+
 
 ![Interview Shayenne Tuma im Stadtpark Biel 02.03.2023](shayenne-good-and-cropped-nihdhcosick.jpg)
+
+# Steigender Drogenkonsum in der Jugend
 
 Im Stadtpark von Biel ist es ein sonniger Tag. Man hört die Vögel zwitschern und Kinder die vor Freude kreischen. Am Rand hat es viel Gestrüpp und Sträucher, in den man ideal spielen kann. Hier findet oft der Austausch von illegalen Drogen statt.
 
