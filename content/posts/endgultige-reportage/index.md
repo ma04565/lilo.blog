@@ -3,7 +3,7 @@ title = "Endgültige Reportage"
 date = "2023-05-02"
 draft = false
 pinned = false
-tags = []
+tags = ["Drogenkonsum"]
 image = "shayenne-1-2-.jpg"
 description = "Die Anzahl der Jugendlichen, die illegale Drogen konsumieren, steigt weltweit, welches auch in der Schweiz ein aktuelles Problem ist. Warum ist das so? Gibt es bestimmte Gründe und was kann man dagegen machen?\n"
 +++
