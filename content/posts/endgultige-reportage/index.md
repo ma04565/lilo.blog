@@ -25,9 +25,9 @@ Eine Drogensucht in der Jugend wird oft schon als Kind mit nahmen Kontakt zu Suc
 
 Es habe bei ihr mit den Einnahmen von Drogen hauptsächlich angefangen, als die Leute in ihrem Umfeld mit dem Konsum begonnen haben und sie mit einigen Kollegen zum Entschluss kamen das, es anscheinend nicht so schlimm sei und sogar cool sein könnte.
 
-Dabei ist die Anschaffung von illegalen Drogen erstaunlich einfach, erzählt sie. „*Allein in dieser Stadt hier, könnte ich dir so eine grosse Auswahl von Leuten angeben, man wäre erstaunt.“*
+Dabei ist die Anschaffung von illegalen Drogen erstaunlich einfach. „*Allein in dieser Stadt hier, könnte ich dir so eine grosse Auswahl von Leuten angeben, man wäre erstaunt.“* Erzählt sie, während sie in die Ferne zeigt.
 
-Shayenne nimmt ihr Handy hervor und zeigt mir einige Screenshots von online Portalen, die illegalen Suchtmittel anwerben. Es ist skurril wie die Produkte wie bei einer üblichen online Shopping Webseite mit Werbesprüchen und professionellen Bildern ausgestattet sind.
+Shayenne nimmt ihr Handy hervor und zeigt mir einige Screenshots von online Portalen, die illegalen Suchtmittel anwerben. Es ist skurril, wie die Produkte wie bei einer gewöhnlichen Online-Shopping-Seite mit Werbesprüchen und professionellen Bildern ausgestattet sind. wenn man nicht 
 
 ### Die Schwierigkeit aufzuhören
 
