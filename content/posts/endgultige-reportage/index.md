@@ -1,15 +1,15 @@
 +++
 title = "Endgültige Reportage"
 date = "2023-05-02"
-draft = true
+draft = false
 pinned = false
 tags = []
 image = "shayenne-1-2-.jpg"
-description = "Die stetige Steigung von Jugendlichen die illegale Drogen konsumieren, ist unter anderem auch in der Schweiz am Steigen. Warum ist das so? Gibt es bestimmte Gründe und was kann man dagegen machen? Ich habe jemanden, der selbst Drogen konsumiert getroffen und bin dem ganzen Thema mehr zugrunde gegangen."
+description = "Die Anzahl der Jugendlichen, die illegale Drogen konsumieren, steigt weltweit, welches auch in der Schweiz ein aktuelles Problem ist. Warum ist das so? Gibt es bestimmte Gründe und was kann man dagegen machen?\n"
 +++
 # Steigender Drogenkonsum in der Jugend
 
-![Interview Shayenne Tuma im Stadtpark Biel 02.03.2023](shayenne-1-2-.jpg)
+![Interview Shayenne Tuma im Stadtpark Biel 02.03.2023](shayenne-1-2-cropped-even-more.jpg)
 
 Im Stadtpark von Biel ist es ein sonniger Tag. Man hört die Vögel zwitschern und Kinder die vor Freude kreischen. Am Rand hat es viel Gestrüpp und Sträucher, in den man ideal spielen kann. Hier findet oft der Austausch von illegalen Drogen statt.
 
