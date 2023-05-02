@@ -1,5 +1,5 @@
 +++
-title = "Endgültige Reportage"
+title = "Steigender Drogenkonsum in der Jugend (Endgültige Reportage)"
 date = "2023-05-02"
 draft = false
 pinned = false
@@ -10,8 +10,6 @@ description = "Die Anzahl der Jugendlichen, die illegale Drogen konsumieren, ste
 # Steigender Drogenkonsum in der Jugend
 
 ![Interview Shayenne Tuma im Stadtpark Biel 02.03.2023](shayenne-good-and-cropped-nihdhcosick.jpg)
-
-# Steigender Drogenkonsum in der Jugend
 
 Im Stadtpark von Biel ist es ein sonniger Tag. Man hört die Vögel zwitschern und Kinder die vor Freude kreischen. Am Rand hat es viel Gestrüpp und Sträucher, in den man ideal spielen kann. Hier findet oft der Austausch von illegalen Drogen statt.
 
