@@ -9,7 +9,7 @@ description = "Die Anzahl der Jugendlichen, die illegale Drogen konsumieren, ste
 +++
 {{<lead>}}
 
-Die Anzahl der Jugendlichen, die illegale Drogen konsumieren, steigt weltweit, welches auch in der Schweiz ein aktuelles Problem ist. Warum ist das so? Gibt es bestimmte Gründe und was könnte man dagegen machen?
+Die Anzahl der Jugendlichen, die illegale Drogen konsumieren, steigt weltweit, das ist auch in der Schweiz ein aktuelles Problem ist. Warum ist das so? Gibt es bestimmte Gründe und was könnte man dagegen machen?
 
 {{</lead>}}
 
