@@ -41,7 +41,7 @@ Shayenne empfiehlt, dass man mit Suchtmitteln erst gar nicht anfangen sollte. Se
 
 Es ist also ganz klar, Prävention ist das beste Mittel dagegen.
 
-Wenige Zeit nach dem Interview raucht ein Mann ungestört, nicht weit entfernt, Marihuana. Währenddessen sind immer noch viele Kinder auf dem Spielplatz am spielen.
+Wenige Zeit nach dem Interview raucht ein Mann ungestört, nicht weit entfernt, Marihuana. Inzwischen ist der Spielplatz noch voller geworden. Die Kinder spielen wie eh und je unter den frischen Laubbäumen und in den sandigen Spielplätzen. Nichtsahnend, was am helllichten Tag um sie herum im Stadtpark Biel geschieht.
 
 {{<box>}}
 
