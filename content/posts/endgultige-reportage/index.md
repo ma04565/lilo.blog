@@ -11,6 +11,12 @@ description = "Die Anzahl der Jugendlichen, die illegale Drogen konsumieren, ste
 
 # Steigender Drogenkonsum in der Jugend
 
+{{<lead>}}
+
+Ein Lead steht zwischen zwei solchen Blöcken.
+
+{{</lead>}}
+
 Im Stadtpark von Biel ist es ein sonniger Tag. Man hört die Vögel zwitschern und Kinder die vor Freude kreischen. Am Rand hat es viel Gestrüpp und Sträucher, in den man ideal spielen kann. Hier findet oft der Austausch von illegalen Drogen statt. Dies ist so ein Problem, dass der Stadtpark nachts abgeschlossen werden muss.
 
 In diesem Park berichtet Shayenne Tuma über ihre eigenen Erfahrungen mit illegalen Drogen und deren Auswirkung auf ihr Leben.
