@@ -1,5 +1,5 @@
 +++
-title = "Steigender Drogenkonsum in der Jugend (Endgültige Reportage)"
+title = "Steigender Drogenkonsum in der Jugend"
 date = "2023-05-04"
 draft = false
 pinned = false
