@@ -37,7 +37,7 @@ Sie habe schon öfters versucht aufzuhören und ist nun schon eine Weile konsumf
 
 Drogenkonsum ist also wirklich ein ernstes Problem, dem man am besten von früh an aus dem Weg gehen sollte.
 
-Shayenne empfiehlt, dass man Suchtmittel erst gar nicht anfangen sollte. Selbst wenn man sieht, wie Freunde Drogen nehmen und sie auch welche anbieten, sollte man ablehnen. Für einen gewissen Moment hat man ein gutes Gefühl. Es ist aber die Gesundheit und die Probleme, die Drogen verursachen, nicht Wert. *„Wie gesagt, wenn möglich nie anfassen.“* Empfiehlt Shayenne ernst.
+Shayenne empfiehlt, dass man mit Suchtmitteln erst gar nicht anfangen sollte. Selbst wenn man sieht, wie Freunde Drogen nehmen und sie auch welche anbieten, sollte man ablehnen. Für einen gewissen Moment hat man ein gutes Gefühl. Es ist aber die Gesundheit und die Probleme, die die Drogen verursachen, nicht Wert. *„Wie gesagt, wenn möglich nie anfassen.“* Empfiehlt Shayenne ernst.
 
 Es ist also ganz klar, Prävention ist das beste Mittel dagegen.
 
