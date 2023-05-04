@@ -45,7 +45,7 @@ Wenige Zeit nach dem Interview raucht ein Mann ungestört, nicht weit entfernt, 
 
 {{<box>}}
 
-`Im Jahr 2017 haben 14% der Bevölkerung zwischen 15 und 34 Jahren innerhalb des letzten Jahres Cannabis konsumiert`
+`Im Jahr 2017 haben 14% der Bevölkerung zwischen 15 und 34 Jahren innerhalb des letzten Jahres Cannabis konsumiert.`
 
 `Im Jahr 2022 wurden in Kanton Bern rund 6.114 Straftaten nach dem Betäubungsmittelgesetz angezeigt.`
 
