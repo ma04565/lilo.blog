@@ -15,7 +15,7 @@ Die Anzahl der Jugendlichen, die illegale Drogen konsumieren, steigt weltweit, d
 
 Eine Reportage von Mara Biedermann.
 
-![Interview Shayenne Tuma im Stadtpark Biel 02.03.2023](shayenne-good-and-cropped-nihdhcosick.jpg)
+![Interview mit Shayenne Tuma im Stadtpark Biel 02.03.2023](shayenne-good-and-cropped-nihdhcosick.jpg)
 
 Im Stadtpark von Biel ist es ein sonniger Nachmittag. Man hört die Vögel zwitschern und Kinder, die vor Freude kreischen. Am Rande des Parks, hat es viel Gestrüpp und Sträucher, in denen man ideal spielen kann. Hier findet oft der Austausch von illegalen Drogen statt. Dies ist sogar so ein grosses Problem, dass der Stadtpark nachts abgeschlossen werden muss.
 
