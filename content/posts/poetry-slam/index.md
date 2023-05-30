@@ -16,7 +16,7 @@ Die Luft wird kälter und damit wird der tag älter.
 
 Der Boden bleibt warm mit Sonnenschein festgesetzt auf der Oberfläche.
 
-Die leicht brise welche über die wiese fliesse.
+Die leichte brise welche über die wiese fliesse.
 
 
 
