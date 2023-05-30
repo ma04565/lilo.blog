@@ -22,4 +22,4 @@ Die leichte brise welche über die wiese fliesse.
 
 
 
-(Ich war habe recht lange gefehlt also ich habe erst heute angefangen)
+(Ich war habe recht lange gefehlt also konnte ich erst heute angefangen)
