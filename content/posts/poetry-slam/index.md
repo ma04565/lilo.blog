@@ -3,6 +3,7 @@ title = "Poetry Slam"
 date = "2023-05-30"
 draft = false
 pinned = false
+tags = ["poetryslam", "natur"]
 +++
 Die Luft ist ganz klar ist das zwar wahr?
 
