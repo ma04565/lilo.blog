@@ -4,6 +4,7 @@ date = "2023-05-30"
 draft = false
 pinned = false
 tags = ["poetryslam", "natur"]
+image = "herunterladen-1-.jpg"
 +++
 Die Luft ist ganz klar ist das zwar wahr?
 
