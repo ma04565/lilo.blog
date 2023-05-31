@@ -4,10 +4,8 @@ draft = false
 image = "a75e8d3c-6c91-4364-ad45-ab0f37c65eb4.jpg"
 description = ""
 +++
-![](/img/default-author.jpg)
+![](d70f52a2-3aca-4440-aa39-bd2403bcd51a.jpg)
 
-## My Name
+Mara Biedermann
 
-mail@example.org
-
-Here should be some info about me...
+mara.biedermann@stud.muristalden.ch
