@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Mara Biedermann"
-image = ""
+image = "/media/aazqsox.jpg"
 url = "/about/"
 +++
