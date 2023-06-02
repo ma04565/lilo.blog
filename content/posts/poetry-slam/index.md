@@ -35,11 +35,3 @@ Das moderne Gelärm.
  
 
 Die Luft ist klar bleibt das zwar wahr?
-
-
-
-
-
-
-
-(Ich war habe recht lange gefehlt also konnte ich erst heute angefangen)
