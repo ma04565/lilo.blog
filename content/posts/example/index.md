@@ -1,5 +1,5 @@
 +++
-title = "KHOOL"
+title = "(O) KHOOL"
 date = "2023-01-01"
 draft = true
 pinned = false
