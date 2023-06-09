@@ -7,25 +7,25 @@ tags = ["Informatik", "Programmieren", "scratch"]
 +++
 ##### Mein Projekt
 
-Ich habe als Projekt mich dazu entschieden das ich mich mit Scratch etwas bekannt zu mache und dort etwas Kleines zu Programmieren.  Ich habe dafür mithilfe einer Videoanleitung ein Sprung spiel programmiert.
+Ich habe als Projekt mich dazu entschieden, dass ich mich mit Scratch etwas bekannt zu mache und dort etwas Kleines zu programmieren.  Ich habe dafür mithilfe einer Videoanleitung ein Sprung spiel programmiert.
 
-Man kann auf Scratch kleine spiele, Geschichten oder Animationen.
+Man kann auf Scratch kleine Spiele, Geschichten oder Animationen.
 
 Durchführung vom programmieren
 
-Wie schon erwähnt habe ich mithilfe einer Videoanleitung etwas Kleines programmiert.
+Wie schon erwähnt, habe ich mithilfe einer Videoanleitung etwas Kleines programmiert.
 
 Ich habe dabei viele verschiedene Dinge versucht auszuprobieren.
 
-Ich habe während des programmieren viele neue ding gelernt.
+Ich habe während des programmieren viele neue dinge gelernt.
 
 Es war sehr interessant, wie man auf Dinge achten musste und langsam darauf aufbauen musste.
 
-Wenn man dann langsam sieht, wie es immer wie ausgebauter wird ist es sehr belohnend. Bis man dann am Schluss das Spiel wirklich spielen kann.
+Wenn man dann langsam sieht, wie es immer wie ausgebauter wird, ist es sehr belohnend. Bis man dann am Schluss das Spiel wirklich spielen kann.
 
 ##### **Sprung Spiel**
 
-Am Schluss hatte ich ein kleines spiel beidem man über Objekte springen muss. Wenn man das erfolgreich ausführt, dann erhöht sich der score, der oben links ist, um einen Punkt. Es gab einige Momente, bei denen etwas nicht mehr funktionierte. Es war aber spannend diese Fehler zu lösen.
+Am Schluss hatte ich ein kleines spiel beidem man über Objekte springen muss. Wenn man das erfolgreich ausführt, dann erhöht sich der Score, der oben links ist, um einen Punkt. Es gab einige Momente, bei denen etwas nicht mehr funktionierte. Es war aber spannend diese Fehler zu lösen.
 
 ##### Fazit
 
