@@ -5,15 +5,11 @@ draft = true
 pinned = false
 tags = ["Informatik", "Programmieren", "scratch"]
 +++
-
-
-Mein Projekt
+##### Mein Projekt
 
 Ich habe als Projekt mich dazu entschieden das ich mich mit Scratch etwas bekannt zu mache und dort etwas Kleines zu Programmieren.  Ich habe dafür mithilfe einer Videoanleitung ein Sprung spiel programmiert.
 
 Man kann auf Scratch kleine spiele, Geschichten oder Animationen.
-
- 
 
 Durchführung vom programmieren
 
@@ -27,15 +23,11 @@ Es war sehr interessant, wie man auf Dinge achten musste und langsam darauf aufb
 
 Wenn man dann langsam sieht, wie es immer wie ausgebauter wird ist es sehr belohnend. Bis man dann am Schluss das Spiel wirklich spielen kann.
 
- 
-
-Sprung Spiel
+##### **Sprung Spiel**
 
 Am Schluss hatte ich ein kleines spiel beidem man über Objekte springen muss. Wenn man das erfolgreich ausführt, dann erhöht sich der score, der oben links ist, um einen Punkt. Es gab einige Momente, bei denen etwas nicht mehr funktionierte. Es war aber spannend diese Fehler zu lösen.
 
- 
-
-Fazit
+##### Fazit
 
 Scratch ist sehr anfängerfreundlich für kleine Projekte, vor allem da es auf blockbasierte visuelle Programmiersprache benutzt.
 
