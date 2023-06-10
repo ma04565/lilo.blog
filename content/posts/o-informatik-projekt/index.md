@@ -1,7 +1,7 @@
 +++
 title = "Informatik Projekt"
 date = "2023-06-09"
-draft = false
+draft = true
 pinned = false
 tags = ["Informatik", "Programmieren", "scratch"]
 +++
