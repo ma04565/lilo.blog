@@ -4,6 +4,7 @@ date = "2023-06-09"
 draft = true
 pinned = false
 tags = ["Informatik", "Programmieren", "scratch"]
+image = "pexels-max-deroin-51415.jpg"
 +++
 ##### Mein Projekt
 
