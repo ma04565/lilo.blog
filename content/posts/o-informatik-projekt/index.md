@@ -3,7 +3,7 @@ title = "Informatik Projekt"
 date = "2023-06-10"
 draft = false
 pinned = false
-tags = ["Informatik", "Programmieren", "scratch"]
+tags = ["Informatik", "Programmieren", "Scratch"]
 image = "pexels-max-deroin-51415.jpg"
 +++
 ##### Mein Projekt
