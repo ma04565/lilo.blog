@@ -47,6 +47,6 @@ Wenige Zeit nach dem Interview raucht ein Mann ungestört, nicht weit entfernt, 
 
 `Im Jahr 2017 haben 14% der Bevölkerung zwischen 15 und 34 Jahren Cannabis konsumiert.`
 
-`Nach dem Betäubungsmittelgesetz, wurde im Jahr 2022 im Kanton Bern rund 6.114 Straftaten, registriert.`
+`Nach dem Betäubungsmittelgesetz wurde im Jahr 2022 im Kanton Bern rund 6.114 Straftaten registriert.`
 
 {{</box>}}
