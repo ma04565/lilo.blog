@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Drogenkonsum", "Reportage", "Suchtmittel"]
 image = "shayenne-1-2-.jpg"
-description = "Die Anzahl der Jugendlichen, die illegale Drogen konsumieren, steigt weltweit, welches auch in der Schweiz ein aktuelles Problem ist. Warum ist das so? Gibt es bestimmte Gründe und was könnte man dagegen machen?\n"
+description = "Die Anzahl der Jugendlichen, die illegale Drogen konsumieren, steigt weltweit, welches auch in der Schweiz ein aktuelles Problem ist. Warum Konsumieren vor allem jugendliche Drogen? Gibt es bestimmte Gründe und was könnte man dagegen machen?\n"
 +++
 {{<lead>}}
 
