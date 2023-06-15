@@ -37,7 +37,7 @@ Sie habe schon öfters versucht aufzuhören und ist nun schon eine Weile konsumf
 
 Drogenkonsum ist ein ernstes Problem, dem man am besten von früh an aus dem Weg gehen sollte.
 
-Shayenne empfiehlt, dass man mit Suchtmitteln erst gar nicht anfangen sollte. Selbst wenn man sieht, wie Freunde Drogen nehmen und sie auch welche anbieten, sollte man ablehnen. Für einen gewissen Moment hat man ein gutes Gefühl. Aber wegen der vielen Probleme, die der Drogenkonsum auf die Gesundheit und das Umfeld hat, ist es diesen Rauschmoment nicht wert. *„Wie gesagt, wenn möglich nie anfassen.“* Empfiehlt Shayenne ernst.
+So empfiehlt Shayenne, dass man mit Suchtmitteln erst gar nicht anfangen sollte. Selbst wenn man sieht, wie Freunde Drogen nehmen und sie auch welche anbieten, sollte man ablehnen. Für einen gewissen Moment hat man ein gutes Gefühl. Aber wegen der vielen Probleme, die der Drogenkonsum auf die Gesundheit und das Umfeld hat, ist es diesen Rauschmoment nicht wert. *„Wie gesagt, wenn möglich nie anfassen.“* Empfiehlt Shayenne ernst.
 
 Es ist also ganz klar, Prävention ist das beste Mittel dagegen.
 
@@ -45,8 +45,16 @@ Wenige Zeit nach dem Interview raucht ein Mann ungestört, nicht weit entfernt, 
 
 {{<box>}}
 
-`Im Jahr 2017 haben 14% der Bevölkerung zwischen 15 und 34 Jahren Cannabis konsumiert.`
+##### Gefahren und Probleme durch Drogenkonsum
 
-`Nach dem Betäubungsmittelgesetz wurde im Jahr 2022 im Kanton Bern rund 6.114 Straftaten registriert.`
+Alle Drogen haben das Potenzial, schwere physische und psychische Schäden zu verursachen. Auch die körperlichen Reaktionen können manchmal sehr heftig sein.
+
+Bereits der einmalige Konsum von Substanzen wie Kokain, Ecstasy und Heroin können zu einem Schlaganfall, Herzinfarkt oder im schlimmstenfalls zum Tod führen. Die oft benutzten Streckmittel können ebenfalls zu schweren Nebenwirkungen und spätere Komplikationen führen.
+
+ 
+
+Eine Drogensucht hinterlässt auch ihre Spuren in der Psyche: Langfristiger Konsum von Drogen kann sogar die Persönlichkeit verändern und Suchtkranke aggressiv, ängstlich oder depressiv werden lassen. Gewisse Drogen können Psychosen auslösen. 
+
+Eine Sucht führt meist auch zu sozialen Problemen, darunter finanzielle Sorgen, Vernachlässigung der eigenen Interessen oder Abschottung von Freunden und Familie. Es sind also nicht nur die Süchtigen, die darunter leiden, sondern auch die Menschen um sie herum. Eine Drogenabhängigkeit stellt für alle Betroffene eine schwere Belastung dar.
 
 {{</box>}}
