@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Drogenkonsum", "Reportage", "Suchtmittel"]
 image = "shayenne-1-2-.jpg"
-description = "Die Anzahl der Jugendlichen, die illegale Drogen konsumieren, steigt weltweit, welches auch in der Schweiz ein aktuelles Problem ist. Warum Konsumieren vor allem jugendliche Drogen? Gibt es bestimmte Gründe und was könnte man dagegen machen?\n"
+description = "Die Anzahl der Jugendlichen, die illegale Drogen konsumieren, steigt weltweit, welches auch in der Schweiz ein aktuelles Problem ist. Warum Konsumieren Jugendliche Drogen? Gibt es bestimmte Gründe und was könnte man dagegen machen?\n"
 +++
 {{<lead>}}
 
@@ -27,9 +27,9 @@ Eine Drogensucht in der Jugend wird oft schon als Kind mit dem nahem Kontakt zu 
 
 Es habe bei ihr mit den Einnahmen von Drogen hauptsächlich angefangen, als die Leute in ihrem Umfeld mit dem Konsum begonnen haben und sie mit einigen Kollegen zum Entschluss kamen, dass es anscheinend nicht so schlimm sei und sogar cool sein könnte.
 
-Dabei ist die Anschaffung von illegalen Drogen erstaunlich einfach. „*Allein in dieser Stadt hier könnte ich so eine grosse Auswahl von Leuten angeben, man wäre erstaunt“,* erzählt sie, während sie in die Ferne zeigt.
+Dabei ist die Anschaffung von illegalen Drogen erstaunlich einfach. Was definitiv zur Zunahme des Drogenkonsums beiträgt, ist auch das Internet und die sozialen Medien. Diese vereinfachen die Kontaktaufnahme deutlich. „*Allein in dieser Stadt hier könnte ich so eine grosse Auswahl von Leuten angeben, man wäre erstaunt“,* erzählt sie, während sie in die Ferne zeigt.
 
-Shayenne nimmt ihr Handy hervor und zeigt mir einige Screenshots von Online-Portalen, die illegale Suchtmittel anwerben. Es ist skurril, dass die Produkte wie bei einer gewöhnlichen Online-Shopping-Seite mit Werbesprüchen und professionellen Bildern ausgestattet sind.
+Shayenne nimmt ihr Handy hervor und zeigt mir einige Screenshots von Online-Portalen, die illegale Suchtmittel anwerben. Es ist skurril, dass die Produkte wie bei einer gewöhnlichen Online-Shopping-Seite mit Werbesprüchen, professionellen Bildern und sogar mit Rabatten ausgestattet sind.
 
 ### Die Schwierigkeit aufzuhören
 
