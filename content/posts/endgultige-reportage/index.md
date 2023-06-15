@@ -47,11 +47,7 @@ Wenige Zeit nach dem Interview raucht ein Mann ungestört, nicht weit entfernt, 
 
 ##### Gefahren und Probleme durch Drogenkonsum
 
-Alle Drogen haben das Potenzial, schwere physische und psychische Schäden zu verursachen. Auch die körperlichen Reaktionen können manchmal sehr heftig sein.
-
-Bereits der einmalige Konsum von Substanzen wie Kokain, Ecstasy und Heroin können zu einem Schlaganfall, Herzinfarkt oder im schlimmstenfalls zum Tod führen. Die oft benutzten Streckmittel können ebenfalls zu schweren Nebenwirkungen und spätere Komplikationen führen.
-
- 
+Alle Drogen haben das Potenzial, schwere physische und psychische Schäden zu verursachen. Auch die körperlichen Reaktionen können manchmal sehr heftig sein. Bereits der einmalige Konsum von Substanzen wie Kokain, Ecstasy und Heroin können zu einem Schlaganfall, Herzinfarkt oder im schlimmstenfalls zum Tod führen. Die oft benutzten Streckmittel können ebenfalls zu schweren Nebenwirkungen und spätere Komplikationen führen. 
 
 Eine Drogensucht hinterlässt auch ihre Spuren in der Psyche: Langfristiger Konsum von Drogen kann sogar die Persönlichkeit verändern und Suchtkranke aggressiv, ängstlich oder depressiv werden lassen. Gewisse Drogen können Psychosen auslösen. 
 
