@@ -1,7 +1,7 @@
 +++
 title = "Situationsbeschreibung"
 date = "2024-03-01"
-draft = true
+draft = false
 pinned = false
 image = "richtiges-bild34567890-345678234567890-.jpg"
 +++
