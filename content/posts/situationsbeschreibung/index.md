@@ -3,6 +3,7 @@ title = "Situationsbeschreibung"
 date = "2024-03-01"
 draft = false
 pinned = false
+tags = ["situationsbeschreibung", "einfachesätze", "satzverknüpfungen"]
 image = "richtiges-bild34567890-345678234567890-.jpg"
 +++
 ##### **Ohne Satzverknüpfungen:**
