@@ -1,7 +1,7 @@
 +++
 title = "wiss"
 date = "2024-03-08"
-draft = false
+draft = true
 pinned = false
 image = "pexels-tirachard-kumtanom-733854.jpg"
 description = ""
